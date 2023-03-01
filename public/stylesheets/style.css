@@ -1,0 +1,31 @@
+body {
+  height: 100%;
+  padding: 6% 0 0 0;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: #c3ff00;
+}
+h1{
+  height: auto;
+  display: flex;
+  text-align: center;
+  font-size: 6rem;
+  justify-content: space-around;
+  color: #006eff;
+}
+p{
+  height: auto;
+  display: flex;
+  font-size: 1.8rem;
+  justify-content: space-around;
+}
+a{
+  height: auto;
+  display: flex;
+  font-size: 1rem;
+  justify-content: space-around;
+}
+h5{
+  margin-top: 6em;
+  text-align:center;
+  color: #3503ff;
+}
